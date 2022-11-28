@@ -1,5 +1,9 @@
 cache
 env
+map.html
+map.txt
+test_code
+instructions.txt
 env/pyvenv.cfg
 env/Lib/site-packages/distutils-precedence.pth
 env/Lib/site-packages/_distutils_hack/__init__.py
@@ -1660,7 +1664,6 @@ env/Scripts/pip3.11.exe
 env/Scripts/pip3.exe
 env/Scripts/python.exe
 env/Scripts/pythonw.exe
-requirements.txt
 places.json
 places.csv
 Google Search API for Python.rar
